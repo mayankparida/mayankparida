@@ -16,4 +16,4 @@ Having a command over:
 * C
 * Java
 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mayankparida18/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mayankparida18/)
