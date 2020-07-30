@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋,My name is Mayank Parida
 
-<!--
-**mayankparida/mayankparida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Simple Work LinkedIn](https://user-images.githubusercontent.com/68542629/88941061-2e374680-d2a6-11ea-9510-caab9e0da103.png)
 
-Here are some ideas to get you started:
+CSE Student spl. in Information Technology | Committee Member at Aaruush,SRM IST | Aspiring AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computer Science student pursuing specialization in the field of Information Technology.
+* Currently trying to stack up skills to become a Web/App Developer. 
+
+Having a command over:
+* C++
+* Python
+* Flutter
+* Firebase
+* C
+* Java
+
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mayankparida18)
