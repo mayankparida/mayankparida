@@ -1,4 +1,4 @@
-### Hi there 👋,My name is Mayank Parida
+# Hi there 👋,My name is Mayank Parida
 
 ![Simple Work LinkedIn (1)](https://user-images.githubusercontent.com/68542629/88942768-54f67c80-d2a8-11ea-9bfb-acd98a5ecae0.png)
 
