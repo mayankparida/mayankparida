@@ -3,7 +3,7 @@
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=mayankparida" alt="mayankparida" /></p>
 
 <h4 align="center">
-  I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack App Developer. I love coding in     Flutter,Dart and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄 
+  I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack App Developer. I love coding in     Flutter, Dart and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄 
 </h4>
 
 <h2 align="center">Stats: </h2>
