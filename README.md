@@ -37,7 +37,7 @@
   <a href="https://instagram.com/o0_mayoo">
     <img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:mayankparida.work@gmail.com@gmail.com">
+  <a href="mailto:mayankparida.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </p>
