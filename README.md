@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mayank</h1>
 <h3 align="center">A passionate developer from Bangalore, India</h3>
-<p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=KG-1510" alt="KG-1510" /></p>
+<p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=mayankparida" alt="KG-1510" /></p>
 
 <h4 align="center">
   I am a CSE student at SRM Institute of Science and Technology, Chennai. I am a sophomore and currently building skills to become a Full Stack App Developer. I love coding in     Flutter,Dart and I love to learn new tech. Here are few of my projects, feel free to use and modify them! 😄 
