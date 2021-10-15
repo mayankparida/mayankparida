@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mayank</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I am Mayank</h1>
 <h3 align="center">A passionate developer from Bangalore, India</h3>
 <p align="center"><img height="25" src="https://komarev.com/ghpvc/?username=mayankparida" alt="mayankparida" /></p>
 
